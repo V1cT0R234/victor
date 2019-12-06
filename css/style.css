@@ -1,0 +1,22 @@
+body{
+	color: #fff;
+background-color:red;
+} 
+
+input {
+	color: #fff;
+}
+.container{
+ background-color: rgba(0,0,0,0.3);
+ margin-top: 10%;
+  border-radius: 10px;
+  width: 6000px;
+   height: 3000px;
+   color: white;
+}
+.input-field{
+ margin-top: 5%;
+ margin-left: 2%
+ margin-right: 2%;
+}
+

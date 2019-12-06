@@ -1,0 +1,20 @@
+h1{
+ display: inline-block;
+ background: #526;
+ color: #fff;
+ font-size: 60px;
+ padding: 10px 50px;
+
+
+}
+body{
+background: #031321
+
+}
+img{
+
+opacity: 0.4
+border-radius:50%;
+box-shadow: 0px 0px 10px 10px blue;
+
+}

@@ -1,0 +1,33 @@
+form{  
+    text-align:  center;
+ }
+ div{
+ 	padding: 10px;
+ 	text-align: center;
+ }
+ .galeria{
+   width: 99%;
+   margin: auto;
+   list-style: none;
+   padding: 20px;
+    box-sizing: border-box;
+     background-image: 
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+ }
+
+ .galeria li{
+ 	 margin: 5px;
+
+ } 
+
+ .galeria{
+ 	width:250px;
+ 	height:280px; 
+ }
+ body{
+background-color:red;
+
+ }
+
